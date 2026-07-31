@@ -1,4 +1,4 @@
-# 🎬 CineMatch - Movie Recommendation System
+# 🎬 CineFans - Movie Recommendation System
 
 A content-based movie recommendation web app built with Python, Scikit-learn, and Streamlit.
 
